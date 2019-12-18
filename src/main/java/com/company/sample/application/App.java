@@ -24,10 +24,10 @@ public class App {
 
     public static void main(String[] args) {
         // start the profiler
-        Profiler.builder().profilingGroupName("<insert the profiling group name here>")
-            .awsCredentialsProvider(DefaultCredentialsProvider.create())
-            .build()
-            .start();
+        //Profiler.builder().profilingGroupName("<insert the profiling group name here>")
+         //   .awsCredentialsProvider(DefaultCredentialsProvider.create())
+          //  .build()
+           // .start();
 
         App app = new App();
 
