@@ -8,7 +8,7 @@
     <artifactId>example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>example</name>
+    <name>codeguru-example</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
